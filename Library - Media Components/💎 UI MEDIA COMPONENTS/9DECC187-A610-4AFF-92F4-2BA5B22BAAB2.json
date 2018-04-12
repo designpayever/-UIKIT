@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9DECC187-A610-4AFF-92F4-2BA5B22BAAB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1851,
+    "width": 1176,
+    "x": 2939,
+    "y": 912
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "@LAYOUT / @PANNEL",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A6E1C6C6-1D00-4BD2-9A4D-6AE5BBEDE13C_stringValue",
+      "value": "App Bar"
+    }
+  ],
+  "overrides": {
+    "A6E1C6C6-1D00-4BD2-9A4D-6AE5BBEDE13C": "App Bar"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "07A5FC4E-88DA-4431-8DD1-79D26721B10A",
+  "verticalSpacing": 0
+}

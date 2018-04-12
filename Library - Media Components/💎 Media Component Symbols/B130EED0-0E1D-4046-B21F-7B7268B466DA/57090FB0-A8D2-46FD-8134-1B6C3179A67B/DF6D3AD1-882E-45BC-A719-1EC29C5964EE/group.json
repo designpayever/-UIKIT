@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "DF6D3AD1-882E-45BC-A719-1EC29C5964EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 21,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "96081A14-DC9F-4AC1-B2CF-CBAEEB74CD93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "289113F3-5FAA-43C7-B390-C5CDFF3F2DF2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC57C818-5CE7-4D0E-A741-C4E290A078DA"
+    }
+  ],
+  "name": "Apps",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.8464673913043478
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CF45A255-F621-4D91-986F-40EF6BBDD343",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 400,
+    "x": 4877,
+    "y": 1723
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MEDIA COMPONENT / Forms / Input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F959FAFD-B3FA-4BA4-80CD-DD2968607994/E62310D1-1624-4CD9-AA4D-4BDC3C1A4CA9_symbolID",
+      "value": "38460E83-65B4-4E01-8A83-EF3EC4D80CE7"
+    }
+  ],
+  "overrides": {
+    "F959FAFD-B3FA-4BA4-80CD-DD2968607994": {
+      "E62310D1-1624-4CD9-AA4D-4BDC3C1A4CA9": {
+        "symbolID": "38460E83-65B4-4E01-8A83-EF3EC4D80CE7"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "611C6CDF-EFEE-4D46-9965-4CCDF8AC1910",
+  "verticalSpacing": 0
+}

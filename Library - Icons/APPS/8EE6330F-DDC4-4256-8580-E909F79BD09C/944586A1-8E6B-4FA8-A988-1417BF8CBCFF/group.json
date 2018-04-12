@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "944586A1-8E6B-4FA8-A988-1417BF8CBCFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 47,
+    "width": 60,
+    "x": 4,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A2EE9655-83FE-4E65-9FA4-6BAE9CE409F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDEA41CD-E175-41C8-A53A-6B585AF9EA0F"
+    }
+  ],
+  "name": "Weebly",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

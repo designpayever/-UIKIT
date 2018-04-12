@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C794F06F-6797-4268-973A-93FDB5C2C099",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 3231,
+    "y": 12052
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "COMPONENTS / section_action Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "776AB8C2-B839-4FD1-8229-2C7D24E88F5F_symbolID",
+      "value": "7F53D3B3-F353-48F1-8A58-264EE9AA4562"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "776AB8C2-B839-4FD1-8229-2C7D24E88F5F/8A93A90C-FB6B-4597-BAE2-5650057F4DDD_stringValue",
+      "value": "Delete contact"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "776AB8C2-B839-4FD1-8229-2C7D24E88F5F/353DAA15-E4FE-4358-9380-DE9ED3E4347D_stringValue",
+      "value": "Select All"
+    }
+  ],
+  "overrides": {
+    "776AB8C2-B839-4FD1-8229-2C7D24E88F5F": {
+      "353DAA15-E4FE-4358-9380-DE9ED3E4347D": "Select All",
+      "8A93A90C-FB6B-4597-BAE2-5650057F4DDD": "Delete contact",
+      "symbolID": "7F53D3B3-F353-48F1-8A58-264EE9AA4562"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A2AF1004-A034-4557-AACD-992875AAB7FB",
+  "verticalSpacing": 0
+}

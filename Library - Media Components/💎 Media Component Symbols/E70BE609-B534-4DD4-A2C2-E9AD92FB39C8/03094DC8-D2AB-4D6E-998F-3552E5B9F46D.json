@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "03094DC8-D2AB-4D6E-998F-3552E5B9F46D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 77,
+    "width": 77,
+    "x": 258,
+    "y": 11
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "APP 4",
+  "nameIsFixed": true,
+  "originalObjectID": "7184735A-90CE-4C56-9D5E-33542B7E4656",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1D46660-D78E-4CE9-84FC-8A06BABDBD28_symbolID",
+      "value": "3E3F3F36-9B22-46F3-989C-8607898FAADC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1D46660-D78E-4CE9-84FC-8A06BABDBD28/5EC5534E-6341-4021-AFF1-7AFBABF85FA3_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1D46660-D78E-4CE9-84FC-8A06BABDBD28/0881D3C6-63BC-49F4-BEC5-A720516DDC5C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "400B5519-F7FF-4688-962F-E6EFADFF099F_stringValue",
+      "value": "Spacer"
+    }
+  ],
+  "overrides": {
+    "400B5519-F7FF-4688-962F-E6EFADFF099F": "Spacer",
+    "A1D46660-D78E-4CE9-84FC-8A06BABDBD28": {
+      "0881D3C6-63BC-49F4-BEC5-A720516DDC5C": {
+        "symbolID": ""
+      },
+      "5EC5534E-6341-4021-AFF1-7AFBABF85FA3": {
+        "symbolID": ""
+      },
+      "symbolID": "3E3F3F36-9B22-46F3-989C-8607898FAADC"
+    }
+  },
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "209846E6-55B7-429F-8460-EF0C77648C4A",
+  "verticalSpacing": 0
+}

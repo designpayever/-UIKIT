@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "05313978-56A0-4FC4-A199-598E47A0B303",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -3962,
+    "y": -1328
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2134F417-C50D-45F9-9ADB-DB02B3F7DFFF"
+    },
+    {
+      "class": "group",
+      "id": "AEADDF91-770C-4034-A1AB-86B41A12F3CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B47BF61D-D496-4C62-B2BD-04564C6D306D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4E7496A-CA85-44A8-AD0C-98011B0822D8"
+    }
+  ],
+  "name": "FOG / white",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

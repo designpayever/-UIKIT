@@ -1,0 +1,126 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "green": 0,
+    "red": 1
+  },
+  "changeIdentifier": 3432,
+  "do_objectID": "BF846717-45CA-4F8F-AD54-6319AE24574A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 400,
+    "x": 6608,
+    "y": 264
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "266C9A78-606A-48D6-9E6B-2062869F5A5B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71785C5B-EF14-4475-8EBD-30165F5EF1CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71B0FDCC-8AD7-4B68-9C8D-250D38446010"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B75C4D3-BE3D-43A1-89EF-F60826A1D165"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "464646EB-119D-4966-9971-CA78C0AA9954"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "195F778F-304C-47DB-B6C9-18EE8D8D120E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63B0D407-9A89-4BF3-9CE8-503E8D2370E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0463D0E2-4791-40A2-8E2E-E66FF620E6A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2170E63A-26A1-44D8-B6B6-52F1B3AC4210"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7590D5B0-020A-446A-817C-8315934CC28D"
+    }
+  ],
+  "name": "MEDIA COMPONENT / Forms / 6 Selectors + Switch",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2068F1BC-FA5E-4BBF-ABE0-D6BC00CE24E9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

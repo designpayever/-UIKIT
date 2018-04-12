@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "EA856FAF-02E7-4AE8-ABA3-E35D69A26BD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6835D99E-7D1E-4200-B7FF-6A85CD19968A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86A570B4-F856-4720-A9D3-A531A67987A7",
+    "height": 34,
+    "width": 40,
+    "x": 12,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0B9854DA-E3B5-4340-886D-11EDEBAE0602"
+    },
+    {
+      "class": "group",
+      "id": "1BC7551B-63F6-4DF0-AD1A-3DFAF12BDCA7"
+    }
+  ],
+  "name": "Amazon.com_A_Smile",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "09C1A310-3733-4F8D-8983-43E50CBF417E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.4981320049813201,
+      "type": 0
+    },
+    "do_objectID": "309F7AFF-0DE9-42E2-A813-E4F7B839E149",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

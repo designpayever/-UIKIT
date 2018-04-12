@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E5E9F7BC-4AC2-4A8D-932F-4A744D1E3960",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 3400,
+    "y": 6925
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "COMPONENTS / option_action Copy 55",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C4B31DF-0D26-4E90-83B6-8524134E4D4C_symbolID",
+      "value": "9BC5BFB7-9D14-4E43-8102-FEF7B5316DFC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1851373B-8579-4ADC-920F-F4B5DF51E707_symbolID",
+      "value": "9BC5BFB7-9D14-4E43-8102-FEF7B5316DFC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "865A8B8E-0721-4498-952C-66F9C0369460_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "66D602DA-ED64-4122-81EE-E862C8E72419_symbolID",
+      "value": "C2230472-2AB8-4267-9593-A564B305BBA3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E007920B-8F18-4C1D-9B77-07621A0A575A_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "1851373B-8579-4ADC-920F-F4B5DF51E707": {
+      "symbolID": "9BC5BFB7-9D14-4E43-8102-FEF7B5316DFC"
+    },
+    "1C4B31DF-0D26-4E90-83B6-8524134E4D4C": {
+      "symbolID": "9BC5BFB7-9D14-4E43-8102-FEF7B5316DFC"
+    },
+    "66D602DA-ED64-4122-81EE-E862C8E72419": {
+      "symbolID": "C2230472-2AB8-4267-9593-A564B305BBA3"
+    },
+    "865A8B8E-0721-4498-952C-66F9C0369460": {
+      "symbolID": ""
+    },
+    "E007920B-8F18-4C1D-9B77-07621A0A575A": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E2863F66-B4C3-472B-AC43-2AF641A23D47",
+  "verticalSpacing": 0
+}

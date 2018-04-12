@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.4274509803921568,
+    "green": 0.4274509803921568,
+    "red": 0.4274509803921568
+  },
+  "do_objectID": "22EFA41A-491F-412D-AE3F-CB511003EBAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1380,
+    "x": -601,
+    "y": 581
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "57D17DBE-AC91-4019-8CD3-AFDC6440D856"
+    },
+    {
+      "class": "group",
+      "id": "663476A5-BA7A-4861-9BD7-E98F326FE1D5"
+    },
+    {
+      "class": "group",
+      "id": "65137F78-B50A-48BF-85AB-834C5FEEE792"
+    },
+    {
+      "class": "group",
+      "id": "88E4FCB9-3EF9-4E18-80A1-799278DEF25C"
+    },
+    {
+      "class": "group",
+      "id": "49E27918-FDD3-41D4-8FFD-674D91E87232"
+    },
+    {
+      "class": "group",
+      "id": "792AA0BE-7E5C-494B-9280-B2E9ECF92958"
+    },
+    {
+      "class": "group",
+      "id": "1D5A2B72-4188-44D4-8024-F4DDE27F1E1F"
+    },
+    {
+      "class": "group",
+      "id": "4663159F-7FAD-4019-9198-145A809D62E4"
+    },
+    {
+      "class": "group",
+      "id": "B26BCE10-C337-4FC8-B554-4D9B7F575B7B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3EB0C5E1-73C8-45C4-BA02-E3B76C9A92EF"
+    }
+  ],
+  "name": "Settings + Subapps",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

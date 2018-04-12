@@ -1,0 +1,121 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 0.4,
+    "blue": 0.05882352941176471,
+    "green": 0.01568627450980392,
+    "red": 0.01568627450980392
+  },
+  "changeIdentifier": 4036,
+  "do_objectID": "4ED1C9F4-C1FC-429F-946A-310D7FBEA976",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 216,
+    "width": 375,
+    "x": 950,
+    "y": 11602
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BDCEF6AD-9330-49F9-B52F-951CDE19B861"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B0BD9D3-00B1-43C3-BECD-709EF961FF03"
+    },
+    {
+      "class": "group",
+      "id": "F8B6A95C-771C-412A-856C-2BC7A746470E"
+    },
+    {
+      "class": "group",
+      "id": "EE537E47-9127-45D6-A219-B5004D8A00DE"
+    },
+    {
+      "class": "group",
+      "id": "6F97FB49-FA30-468F-980C-A87CA31B46CD"
+    },
+    {
+      "class": "group",
+      "id": "2434B3DA-18DE-4A8C-B1CA-5DB67F663D08"
+    },
+    {
+      "class": "group",
+      "id": "A997CF96-6974-40FD-8DFB-3ECA09428831"
+    },
+    {
+      "class": "group",
+      "id": "E60804C3-CB67-426C-9BD8-CF0D307C7C61"
+    },
+    {
+      "class": "group",
+      "id": "E9579842-8845-4860-9059-5187B08276A9"
+    },
+    {
+      "class": "group",
+      "id": "B42E3FEE-81F4-46F1-A2FF-C18D81CC64B8"
+    },
+    {
+      "class": "group",
+      "id": "14526892-28C0-4836-A072-B3AC5ACC3493"
+    },
+    {
+      "class": "group",
+      "id": "0B91ABA2-9909-437C-AF67-080F6CF07566"
+    }
+  ],
+  "name": "System/Light Keyboard Numberic",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "43B9163B-1608-4628-A8DE-7D9CCC89E8F5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

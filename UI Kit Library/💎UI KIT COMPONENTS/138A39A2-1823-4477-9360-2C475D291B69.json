@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "138A39A2-1823-4477-9360-2C475D291B69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BE76540-F949-4BC2-BD0E-ACB74CD7AE44",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CF7ED46-DFA6-494D-A916-1F91F866EE58",
+    "height": 198,
+    "width": 1380,
+    "x": 4228,
+    "y": 2824
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dashboard / Dock / Setting Dock_#",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7CE0675-7585-4675-ACF9-1E205E315536",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CE0877B0-8930-4455-B0A5-275484024686",
+  "verticalSpacing": 0
+}

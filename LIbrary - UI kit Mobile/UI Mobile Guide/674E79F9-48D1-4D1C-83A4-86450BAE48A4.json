@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "674E79F9-48D1-4D1C-83A4-86450BAE48A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 375,
+    "x": -401,
+    "y": -492
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "COMPONENTS / Icon + text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C8364645-0465-4D1D-BF67-739A0A00AEDC_symbolID",
+      "value": "7558DA30-B07B-4812-A01A-F483CAB364D4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F226E707-E8C1-45D9-9DE9-D0B9FC39DAE8_stringValue",
+      "value": "Upload Avatar"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7EFB33A7-7A14-4B6E-B44E-55883EAC413D/5AEB5C46-AC7E-4D6D-9399-5171FF15BBE8_stringValue",
+      "value": "Upload Avatar"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3CD139B9-0498-4270-81C6-91FBAE62DC49_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "3CD139B9-0498-4270-81C6-91FBAE62DC49": {
+      "symbolID": ""
+    },
+    "7EFB33A7-7A14-4B6E-B44E-55883EAC413D": {
+      "5AEB5C46-AC7E-4D6D-9399-5171FF15BBE8": "Upload Avatar"
+    },
+    "C8364645-0465-4D1D-BF67-739A0A00AEDC": {
+      "symbolID": "7558DA30-B07B-4812-A01A-F483CAB364D4"
+    },
+    "F226E707-E8C1-45D9-9DE9-D0B9FC39DAE8": "Upload Avatar"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "296627E6-4EA6-4073-B168-EB5DD0BB1ACC",
+  "verticalSpacing": 0
+}

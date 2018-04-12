@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "50A28C80-3AB3-42AE-A02A-2CAC4BF4D29F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F1EC333-373C-4C7D-B77E-B7E9EEC16BCE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65A9D5FE-1D0E-4BB4-9489-0CD0470B2B6C",
+    "height": 693,
+    "width": 1332,
+    "x": 24,
+    "y": 55
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Layout / AppLayout / 1x100",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A98C9C69-1E38-4FFA-A740-E22336D6DA0D",
+      "overrideName": "B0D616E3-F978-487B-B332-23CA07FF0BE0_symbolID",
+      "value": "16EE51FD-D8BB-466E-BFC4-2A2C2575F1B2"
+    }
+  ],
+  "overrides": {
+    "B0D616E3-F978-487B-B332-23CA07FF0BE0": {
+      "symbolID": "16EE51FD-D8BB-466E-BFC4-2A2C2575F1B2"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "909EDC29-26CE-4B0C-89E0-C76C509308E8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "69C9FA54-B5A5-43CA-AFFD-8E2B5AEE78A3",
+  "verticalSpacing": 0
+}

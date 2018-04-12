@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "608EA480-88C4-4038-B364-6D416D93226C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40870DDE-6965-4E9E-AEFB-0B8318C6E2BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D08D1A52-11FF-4DA2-8E45-FA3391665C9F",
+    "height": 33,
+    "width": 88,
+    "x": 212,
+    "y": 81
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BTN Blue / Symbol",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E25AE114-9CFD-4C89-902B-849D92A847EA_symbolID",
+      "value": "F6DDB823-A3E5-42DB-828E-C0BDBC532AC3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "54D56AC8-BBB9-49AC-8221-1152E2A3452C",
+      "overrideName": "E25AE114-9CFD-4C89-902B-849D92A847EA/6E54BDF0-382D-4070-90D8-40EA0B7EB61E_stringValue",
+      "value": "Ship now"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DEC3A203-2502-4790-8DC7-F7EB398C47A1",
+      "overrideName": "6E54BDF0-382D-4070-90D8-40EA0B7EB61E_stringValue",
+      "value": "Ship now"
+    }
+  ],
+  "overrides": {
+    "6E54BDF0-382D-4070-90D8-40EA0B7EB61E": "Ship now",
+    "E25AE114-9CFD-4C89-902B-849D92A847EA": {
+      "6E54BDF0-382D-4070-90D8-40EA0B7EB61E": "Ship now",
+      "symbolID": "F6DDB823-A3E5-42DB-828E-C0BDBC532AC3"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A6A7ABA-8269-4E3D-8959-D1F27CE03B2D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F6DDB823-A3E5-42DB-828E-C0BDBC532AC3",
+  "userInfo": {
+    "com.zeroheight.plugin": {
+      "zeroheight-component-id": "40617"
+    }
+  },
+  "verticalSpacing": 0
+}

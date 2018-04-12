@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "D98D7E10-5580-4DD0-94D5-0B0EDFD9CF4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 340,
+    "x": 20,
+    "y": 165
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DFFD37B8-2170-4453-8A55-A68FB306FE7E"
+    },
+    {
+      "class": "text",
+      "id": "DB2BF6EC-9E3D-45A7-95B9-F1674D8DCCEB"
+    },
+    {
+      "class": "group",
+      "id": "DF169C0F-55C5-4719-BA18-5210F8317858"
+    }
+  ],
+  "name": "SIDE BARS / Right Col / Component / Select Corner",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 1,
+      "opacity": 1
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

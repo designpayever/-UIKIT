@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "375E9A64-962E-4762-9915-0428F4398492",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 375,
+    "x": 2942,
+    "y": 9922
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "TOP BAR / HEADER 56pt Copy 43",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4D375821-7BD1-4D3D-9290-157DF2BEA26C_symbolID",
+      "value": "4EC2E9D9-D1FD-480A-86E1-6C0EEDFA7A7F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4D375821-7BD1-4D3D-9290-157DF2BEA26C/FE1E2064-9D1A-44E3-BB6A-0365F2154275_stringValue",
+      "value": "Group contact list"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "083CAC74-05BD-4E45-9E0C-3D0319F4FE74_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/700a411f4ff8a5d29a8858fca7bb47ba8a2d9e4c",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "218A3C93-2413-4499-8272-9B5B278AFB2C_symbolID",
+      "value": "284724D6-1803-443C-BA7C-911B90B63ADE"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8601E266-69D5-4E08-96FE-A9322A7C3B04_symbolID",
+      "value": "F663923F-666E-407D-986F-B656DFE1EC21"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8601E266-69D5-4E08-96FE-A9322A7C3B04/3DC87A43-332C-4972-A8F0-2FE8848538A3_stringValue",
+      "value": "Add"
+    }
+  ],
+  "overrides": {
+    "083CAC74-05BD-4E45-9E0C-3D0319F4FE74": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/700a411f4ff8a5d29a8858fca7bb47ba8a2d9e4c",
+      "_ref_class": "MSImageData"
+    },
+    "218A3C93-2413-4499-8272-9B5B278AFB2C": {
+      "symbolID": "284724D6-1803-443C-BA7C-911B90B63ADE"
+    },
+    "4D375821-7BD1-4D3D-9290-157DF2BEA26C": {
+      "FE1E2064-9D1A-44E3-BB6A-0365F2154275": "Group contact list",
+      "symbolID": "4EC2E9D9-D1FD-480A-86E1-6C0EEDFA7A7F"
+    },
+    "8601E266-69D5-4E08-96FE-A9322A7C3B04": {
+      "3DC87A43-332C-4972-A8F0-2FE8848538A3": "Add",
+      "symbolID": "F663923F-666E-407D-986F-B656DFE1EC21"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "09667CCA-6601-4975-99C0-C051BADAC018",
+  "verticalSpacing": 0
+}

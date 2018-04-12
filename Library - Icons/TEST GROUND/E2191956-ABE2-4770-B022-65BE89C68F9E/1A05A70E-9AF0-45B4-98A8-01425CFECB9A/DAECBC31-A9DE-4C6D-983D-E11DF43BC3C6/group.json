@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "DAECBC31-A9DE-4C6D-983D-E11DF43BC3C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 209,
+    "width": 197,
+    "x": 985,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E64753A9-9D1D-4E89-A5B2-3B9ACDDBDD06"
+    },
+    {
+      "class": "text",
+      "id": "1E8F2EC5-1BE4-4BB8-B744-E1E9211E8032"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12BCF231-3338-4582-9116-F8881DB9CB6F"
+    }
+  ],
+  "name": "APP6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

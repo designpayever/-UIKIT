@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "671834B4-A40E-45EC-84A5-54FA08953194",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 72,
+    "x": 88,
+    "y": 106
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 30,
+  "masterInfluenceEdgeMaxYPadding": 32,
+  "masterInfluenceEdgeMinXPadding": 22,
+  "masterInfluenceEdgeMinYPadding": 20,
+  "name": "mobile_Icon_bg Copy 8",
+  "nameIsFixed": false,
+  "originalObjectID": "D6A07CB3-5781-486A-91DF-FD754114ADC3",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "766F1F0D-560B-40DA-A63F-2FBE35729FDD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "61EE13D3-1E12-478A-B6F5-518819173DA8_stringValue",
+      "value": "Payments"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D19FC736-266A-4063-99A9-CC8087F50FA9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/700a411f4ff8a5d29a8858fca7bb47ba8a2d9e4c",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "61EE13D3-1E12-478A-B6F5-518819173DA8": "Payments",
+    "766F1F0D-560B-40DA-A63F-2FBE35729FDD": {
+      "symbolID": ""
+    },
+    "D19FC736-266A-4063-99A9-CC8087F50FA9": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/700a411f4ff8a5d29a8858fca7bb47ba8a2d9e4c",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "262AB538-F7DF-4D05-8984-21283C13E179",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "7DF9A36D-2258-4B4C-90E2-173B09F94EDF",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

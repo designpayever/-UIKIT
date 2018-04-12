@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "4663159F-7FAD-4019-9198-145A809D62E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 11,
+    "width": 40,
+    "x": 1315.5,
+    "y": 354.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "59A81D95-3679-4CDF-9D55-02EFB6C92DAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B341B37-E467-44E6-A601-FC82269ECEDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FC54569-0384-473D-A980-5F9725FC3CFB"
+    }
+  ],
+  "name": "Slide dots",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 90,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

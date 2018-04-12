@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "608F385B-3AD9-430C-8DDA-AA773F541BD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 355,
+    "x": 5861,
+    "y": 9310
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Views / Action / component_64x355 Copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B84BEE9A-FF87-438E-9AFF-B039018527E8_symbolID",
+      "value": "00D107A3-B9A6-49C8-9A34-F38B58658244"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F0C1E51A-BBBE-41FF-B467-10C87F400143_symbolID",
+      "value": "25150B72-8E38-44F8-8CFC-3B92E51BB8E1"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F0C1E51A-BBBE-41FF-B467-10C87F400143/773E03A3-EC33-4F80-8E91-0D889C291C6E_stringValue",
+      "value": "Send to another email address"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F0C1E51A-BBBE-41FF-B467-10C87F400143/1FA21E1E-C13C-4514-BD7C-09FD53BD8CC2_stringValue",
+      "value": "Send to another email address"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F0C1E51A-BBBE-41FF-B467-10C87F400143/353DAA15-E4FE-4358-9380-DE9ED3E4347D_stringValue",
+      "value": "Recover your password"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F0C1E51A-BBBE-41FF-B467-10C87F400143/7B74DDB9-B29F-450D-B3A2-B0E5C67B8004_stringValue",
+      "value": "Are you sure want to delete this contact?then from your networks"
+    }
+  ],
+  "overrides": {
+    "B84BEE9A-FF87-438E-9AFF-B039018527E8": {
+      "symbolID": "00D107A3-B9A6-49C8-9A34-F38B58658244"
+    },
+    "F0C1E51A-BBBE-41FF-B467-10C87F400143": {
+      "1FA21E1E-C13C-4514-BD7C-09FD53BD8CC2": "Send to another email address",
+      "353DAA15-E4FE-4358-9380-DE9ED3E4347D": "Recover your password",
+      "773E03A3-EC33-4F80-8E91-0D889C291C6E": "Send to another email address",
+      "7B74DDB9-B29F-450D-B3A2-B0E5C67B8004": "Are you sure want to delete this contact?then from your networks",
+      "symbolID": "25150B72-8E38-44F8-8CFC-3B92E51BB8E1"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0E21179E-6311-4A02-B4CE-C326765C414F",
+  "verticalSpacing": 0
+}

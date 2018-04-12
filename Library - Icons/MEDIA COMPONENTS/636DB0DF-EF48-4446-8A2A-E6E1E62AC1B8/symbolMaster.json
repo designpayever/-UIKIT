@@ -1,0 +1,133 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "CC7D8E54-CD96-46C8-9381-5CB2E668817D",
+    "green": 0,
+    "red": 1
+  },
+  "changeIdentifier": 3992,
+  "do_objectID": "636DB0DF-EF48-4446-8A2A-E6E1E62AC1B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D34049E-4340-446B-971F-643F6328DC0C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07B95A68-448C-4CF1-A219-B174E0B9AC9D",
+    "height": 48,
+    "width": 48,
+    "x": 5045,
+    "y": 1896
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 1,
+    "isEnabled": false,
+    "thickGridTimes": 1
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CE737647-E80E-4A83-8CA6-3045304FCAEC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0B469ED5-EDFD-4298-BCBF-7A70D8E35907"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C7C57AA-6944-4C8F-A9EF-53B9EAE11E46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02C771C6-3908-4CFA-B8B5-8F3009094E4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0BFB9233-E68E-4DA1-9EDB-5C0C7FB91D8C"
+    }
+  ],
+  "name": "MEDIA COMPONENTS / APP_BAR /coupon_icon",
+  "nameIsFixed": true,
+  "originalObjectID": "8C9BDD21-F3AF-42CC-8779-140D3987BEDF",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53CF5095-757B-4AC1-AB09-1A2FB97EB8CF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F1F7AC86-5E8F-433D-9290-0854BD750C74",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1C04348F-48BA-4711-B368-FAB878A1EBC0",
+    "guides": [
+    ]
+  }
+}

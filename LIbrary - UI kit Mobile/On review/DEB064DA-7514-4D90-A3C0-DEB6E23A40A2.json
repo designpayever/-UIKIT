@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DEB064DA-7514-4D90-A3C0-DEB6E23A40A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 375,
+    "x": -2632,
+    "y": 10274
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "List / Messages Copy 11",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "30D52666-8643-4CC0-B995-C30F5562BD27/5514485C-5260-4017-9B68-8FAC15FDB238_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "18B3169E-3860-42AA-BFC9-9AF0A76FE144/E181174B-00A1-43F0-BF03-75F964D0DEDC_symbolID",
+      "value": "C6FC50DC-E524-48E7-9428-FD577DC26A67"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DCA862B0-4CD0-4F97-B302-57B7906B7A4A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A116390A-6CD9-47B5-ABBC-0E269B2BEFAE_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "18B3169E-3860-42AA-BFC9-9AF0A76FE144": {
+      "E181174B-00A1-43F0-BF03-75F964D0DEDC": {
+        "symbolID": "C6FC50DC-E524-48E7-9428-FD577DC26A67"
+      }
+    },
+    "30D52666-8643-4CC0-B995-C30F5562BD27": {
+      "5514485C-5260-4017-9B68-8FAC15FDB238": {
+        "symbolID": ""
+      }
+    },
+    "A116390A-6CD9-47B5-ABBC-0E269B2BEFAE": {
+      "symbolID": ""
+    },
+    "DCA862B0-4CD0-4F97-B302-57B7906B7A4A": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3F963260-D4DD-48CB-9997-F08AA4231AEB",
+  "verticalSpacing": 0
+}

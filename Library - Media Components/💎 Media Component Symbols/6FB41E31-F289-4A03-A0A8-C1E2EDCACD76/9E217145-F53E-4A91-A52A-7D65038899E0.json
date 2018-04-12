@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9E217145-F53E-4A91-A52A-7D65038899E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC301C77-50FF-43EC-ADA4-5F2A7A3793CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C3D8185-F2F8-4483-A09B-1DDC3539E658",
+    "height": 55,
+    "width": 56,
+    "x": 136,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon 3",
+  "nameIsFixed": false,
+  "originalObjectID": "9E217145-F53E-4A91-A52A-7D65038899E0",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7FC03B39-E859-450C-9472-521DBAE6ADDD_symbolID",
+      "value": "C9B39C3F-7343-4D2F-85AC-63A6F79FBF13"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1BBE312F-AB28-49EA-A545-1EBDA68838B6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C201D4C-2CD6-4381-B148-6B43AE376BF8",
+      "overrideName": "7FC03B39-E859-450C-9472-521DBAE6ADDD/9CB8F5DC-84D3-4F5A-A8C3-2796E8D40F82_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "1BBE312F-AB28-49EA-A545-1EBDA68838B6": {
+      "symbolID": ""
+    },
+    "7FC03B39-E859-450C-9472-521DBAE6ADDD": {
+      "9CB8F5DC-84D3-4F5A-A8C3-2796E8D40F82": {
+        "symbolID": ""
+      },
+      "symbolID": "C9B39C3F-7343-4D2F-85AC-63A6F79FBF13"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1F36978-1772-4EC1-A032-2311CEB0C8C2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DD094C32-653A-4E3E-BCC7-366B6EB0A010",
+  "verticalSpacing": 0
+}

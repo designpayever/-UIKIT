@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "C0E8AF76-C970-40F3-B613-D37EF37BBC28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 338,
+    "x": 20,
+    "y": 209
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1D373D82-FB6E-400E-BB11-19A28B7F62DE"
+    },
+    {
+      "class": "text",
+      "id": "97D89428-415C-4121-9174-5D8D37A7EFC9"
+    },
+    {
+      "class": "group",
+      "id": "07325AFB-AAB1-4785-8983-B1E76F45C185"
+    }
+  ],
+  "name": "Color Pick component Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 2,
+      "opacity": 1
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

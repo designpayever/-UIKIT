@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "27D1FE6A-0105-46A2-BEC1-9CD6099832C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 65,
+    "x": 91,
+    "y": 288
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 36,
+  "name": "Dock_icon_on Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "C134F335-755B-4A50-947A-7B2C89B17722",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "25528997-9EB6-4475-8D97-7697D9BE2F8E_symbolID",
+      "value": "41376ADD-D1A1-4D30-BC22-CFC414FAFA96"
+    }
+  ],
+  "overrides": {
+    "25528997-9EB6-4475-8D97-7697D9BE2F8E": {
+      "symbolID": "41376ADD-D1A1-4D30-BC22-CFC414FAFA96"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A06117E2-1F1F-40F1-A7C9-B61ED98800CD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1C04E623-A3D5-4A9E-9312-C31C5EDA64D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 168,
+    "width": 375,
+    "x": 962,
+    "y": 337
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Component / user Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0C7E8403-215E-4CA9-9598-FA2D78F7E0FA_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BE536BAB-ACAE-49B4-B21F-DFD1C1D7998B_symbolID",
+      "value": "33DA5424-BB5D-4990-92B7-40DC570D1F33"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF62013D-9C3C-46DB-8B20-EF61184BAE49_symbolID",
+      "value": "73CCA6A6-F67E-4025-8022-4B706D541983"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AC8576B2-8D1F-4161-A251-4833F5F62D79_stringValue",
+      "value": "247 members"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CD0F66E9-6F6D-41B9-91EC-CE6D6812633A_stringValue",
+      "value": "Best Customers"
+    }
+  ],
+  "overrides": {
+    "0C7E8403-215E-4CA9-9598-FA2D78F7E0FA": {
+      "symbolID": ""
+    },
+    "AC8576B2-8D1F-4161-A251-4833F5F62D79": "247 members",
+    "BE536BAB-ACAE-49B4-B21F-DFD1C1D7998B": {
+      "symbolID": "33DA5424-BB5D-4990-92B7-40DC570D1F33"
+    },
+    "CD0F66E9-6F6D-41B9-91EC-CE6D6812633A": "Best Customers",
+    "DF62013D-9C3C-46DB-8B20-EF61184BAE49": {
+      "symbolID": "73CCA6A6-F67E-4025-8022-4B706D541983"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6583FE33-7D67-4508-A38C-4F27BFDE93E8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "07C383E5-8B76-46C9-9C26-11E7C9A59C02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 375,
+    "x": -401,
+    "y": -1456
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "COMPONENTS / List 64x / Offers Copy 45",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CAD7F67B-FCD3-4BF7-A0DE-BCED8E31FA34_symbolID",
+      "value": "A81C91C7-F03C-4213-80EC-A0EC6DF621A0"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6B2BBB23-CF0A-47F3-8F0D-B6575A8CDEA6_stringValue",
+      "value": "Best Customers"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "25C25A90-7B59-408C-851F-DBE5B61572AE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9898279B-D117-4BF0-8E0F-20B4582392C6_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "25C25A90-7B59-408C-851F-DBE5B61572AE": {
+      "symbolID": ""
+    },
+    "6B2BBB23-CF0A-47F3-8F0D-B6575A8CDEA6": "Best Customers",
+    "9898279B-D117-4BF0-8E0F-20B4582392C6": {
+      "symbolID": ""
+    },
+    "CAD7F67B-FCD3-4BF7-A0DE-BCED8E31FA34": {
+      "symbolID": "A81C91C7-F03C-4213-80EC-A0EC6DF621A0"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FEF090B8-9500-4698-B9DA-698152D3A4CC",
+  "verticalSpacing": 0
+}

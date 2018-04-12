@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "6168DE86-DD96-4000-AE7E-CEF8C5D4E089",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 65,
+    "x": 220,
+    "y": 548
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "54E533F7-3ECC-489F-A49F-498C596C35DF"
+    }
+  ],
+  "name": "Dock_icon_on Copy 4",
+  "nameIsFixed": false,
+  "originalObjectID": "C134F335-755B-4A50-947A-7B2C89B17722",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

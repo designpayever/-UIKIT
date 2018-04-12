@@ -1,0 +1,152 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3587F9F7-082C-4953-B687-1A0A48A8B226",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 343,
+    "x": 4766,
+    "y": 3206
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "COMPONENTS / fields Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "BA021A69-5926-4C4C-AA48-8C6463D4F047_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "66628E47-3322-4307-B471-46B9D5FC9AC4/E9156129-E287-43BC-9DA9-8931484CAC51/DA10EA87-8C6C-4750-81A5-A043F5755933_stringValue",
+      "value": "Adress"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "66628E47-3322-4307-B471-46B9D5FC9AC4/6586A515-0C36-4D8D-B8A0-49A916B97786/BA7B4BBC-800B-488F-B836-D41D0EDD0048_stringValue",
+      "value": "21 Consett  RdHILLINGDON UB10 5LB "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3DB34141-5720-4FAF-8B09-C146669D55C8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8105E41C-7F5D-4A23-8C1D-70ECA7823C34_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "692D0B83-667A-4C53-A0C7-B78CD13EA397_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F78215C1-3152-4110-8359-750A492D93FB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7617F3DC-41D9-43C0-BEEE-35501E0B193B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E4C4BAF6-098E-4200-A3F5-23089A91C533_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "03305D04-6F3B-4428-8160-7C9091550C1A_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "18BAF171-53E4-43FA-92A6-ECDA6EE08EFF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C04899A3-9F96-4314-BDA7-0853D7ED394D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "00C92E5E-A37A-4474-86D4-D7935DEB6B18_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "00C92E5E-A37A-4474-86D4-D7935DEB6B18": {
+      "symbolID": ""
+    },
+    "03305D04-6F3B-4428-8160-7C9091550C1A": " ",
+    "18BAF171-53E4-43FA-92A6-ECDA6EE08EFF": {
+      "symbolID": ""
+    },
+    "3DB34141-5720-4FAF-8B09-C146669D55C8": {
+      "symbolID": ""
+    },
+    "66628E47-3322-4307-B471-46B9D5FC9AC4": {
+      "6586A515-0C36-4D8D-B8A0-49A916B97786": {
+        "BA7B4BBC-800B-488F-B836-D41D0EDD0048": "21 Consett  RdHILLINGDON UB10 5LB "
+      },
+      "E9156129-E287-43BC-9DA9-8931484CAC51": {
+        "DA10EA87-8C6C-4750-81A5-A043F5755933": "Adress"
+      }
+    },
+    "692D0B83-667A-4C53-A0C7-B78CD13EA397": {
+      "symbolID": ""
+    },
+    "7617F3DC-41D9-43C0-BEEE-35501E0B193B": {
+      "symbolID": ""
+    },
+    "8105E41C-7F5D-4A23-8C1D-70ECA7823C34": {
+      "symbolID": ""
+    },
+    "BA021A69-5926-4C4C-AA48-8C6463D4F047": {
+      "symbolID": ""
+    },
+    "C04899A3-9F96-4314-BDA7-0853D7ED394D": {
+      "symbolID": ""
+    },
+    "E4C4BAF6-098E-4200-A3F5-23089A91C533": " ",
+    "F78215C1-3152-4110-8359-750A492D93FB": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "69BD49AC-31A9-429A-9247-6C838AF94C1F",
+  "verticalSpacing": 0
+}

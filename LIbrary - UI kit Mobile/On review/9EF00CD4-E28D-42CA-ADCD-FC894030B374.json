@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9EF00CD4-E28D-42CA-ADCD-FC894030B374",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 375,
+    "x": -1391,
+    "y": 4727
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "STORE / Store Selector Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D3EB319-1525-4B45-A5E3-9F5DD19FA1C3/8B45515D-C1E2-48A2-A71A-3C71A2D374AC/47F45773-CAF6-48C1-93FE-24C035B86015_stringValue",
+      "value": "Open bak L"
+    }
+  ],
+  "overrides": {
+    "3D3EB319-1525-4B45-A5E3-9F5DD19FA1C3": {
+      "8B45515D-C1E2-48A2-A71A-3C71A2D374AC": {
+        "47F45773-CAF6-48C1-93FE-24C035B86015": "Open bak L"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "46182F49-6E36-4E9E-96AF-A6CB1F037827",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "A0509684-BA72-47B0-B003-5D52CABB5163",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39.21568627450981,
+    "width": 33.72549019607844,
+    "x": 0.06534944804882924,
+    "y": 0.1070575598671841
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C6D2C861-F2C3-47F7-884D-9B94374C30A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A0C9382-13E4-4BF6-870D-9E495FF8DD31"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAC35B02-FEA1-401C-8A21-890DC5D927C9"
+    }
+  ],
+  "name": "paypal-icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.91304347826087,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

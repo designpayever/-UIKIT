@@ -1,0 +1,140 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A59692EC-0B1B-4A77-8003-791A8FD49F9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": -1016,
+    "y": 5757
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "COMPONENTS / option_action Copy 119",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "87C7B7EF-B586-4C54-B327-66C5ED0172C3_symbolID",
+      "value": "97092569-1E59-45C8-82FA-70BD1C47270C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "50804B75-4610-42B7-A3EE-1E7B4BE6F178_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "59DA285E-24CA-4325-A1E0-4602D98AA3CD/692D0B83-667A-4C53-A0C7-B78CD13EA397_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "59DA285E-24CA-4325-A1E0-4602D98AA3CD/18BAF171-53E4-43FA-92A6-ECDA6EE08EFF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "59DA285E-24CA-4325-A1E0-4602D98AA3CD/3DB34141-5720-4FAF-8B09-C146669D55C8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "59DA285E-24CA-4325-A1E0-4602D98AA3CD/66628E47-3322-4307-B471-46B9D5FC9AC4_symbolID",
+      "value": "5F0B05DA-ECA3-4D64-9937-F7595E22E8E8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "59DA285E-24CA-4325-A1E0-4602D98AA3CD/66628E47-3322-4307-B471-46B9D5FC9AC4/F26EC3A2-BD1C-4CC9-8FA9-CDC5217D9205/553809CA-9F9F-4315-AD55-5C0D8776CD2D_stringValue",
+      "value": "Phone"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "59DA285E-24CA-4325-A1E0-4602D98AA3CD/66628E47-3322-4307-B471-46B9D5FC9AC4/6586A515-0C36-4D8D-B8A0-49A916B97786/BA7B4BBC-800B-488F-B836-D41D0EDD0048_stringValue",
+      "value": "essie.smith@clothes.co"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "59DA285E-24CA-4325-A1E0-4602D98AA3CD/7617F3DC-41D9-43C0-BEEE-35501E0B193B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "59DA285E-24CA-4325-A1E0-4602D98AA3CD/8105E41C-7F5D-4A23-8C1D-70ECA7823C34_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "59DA285E-24CA-4325-A1E0-4602D98AA3CD/BA021A69-5926-4C4C-AA48-8C6463D4F047_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "50804B75-4610-42B7-A3EE-1E7B4BE6F178": {
+      "symbolID": ""
+    },
+    "59DA285E-24CA-4325-A1E0-4602D98AA3CD": {
+      "18BAF171-53E4-43FA-92A6-ECDA6EE08EFF": {
+        "symbolID": ""
+      },
+      "3DB34141-5720-4FAF-8B09-C146669D55C8": {
+        "symbolID": ""
+      },
+      "66628E47-3322-4307-B471-46B9D5FC9AC4": {
+        "6586A515-0C36-4D8D-B8A0-49A916B97786": {
+          "BA7B4BBC-800B-488F-B836-D41D0EDD0048": "essie.smith@clothes.co"
+        },
+        "F26EC3A2-BD1C-4CC9-8FA9-CDC5217D9205": {
+          "553809CA-9F9F-4315-AD55-5C0D8776CD2D": "Phone"
+        },
+        "symbolID": "5F0B05DA-ECA3-4D64-9937-F7595E22E8E8"
+      },
+      "692D0B83-667A-4C53-A0C7-B78CD13EA397": {
+        "symbolID": ""
+      },
+      "7617F3DC-41D9-43C0-BEEE-35501E0B193B": {
+        "symbolID": ""
+      },
+      "8105E41C-7F5D-4A23-8C1D-70ECA7823C34": {
+        "symbolID": ""
+      },
+      "BA021A69-5926-4C4C-AA48-8C6463D4F047": {
+        "symbolID": ""
+      }
+    },
+    "87C7B7EF-B586-4C54-B327-66C5ED0172C3": {
+      "symbolID": "97092569-1E59-45C8-82FA-70BD1C47270C"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AE3059F9-8C13-4250-9422-B732C351F390",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BACA592E-C0EB-45F9-9D94-9F2F38E8F596",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC27F924-8547-4B30-B7E8-7CF309270691",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F74EE022-F376-4C19-AA02-F9C6311A8C7A",
+    "height": 44,
+    "width": 46,
+    "x": 234,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "MEDIA COMPONENT / Status / Selected Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43B94CB5-FDC1-4912-9AC1-BC25C9E25DC9",
+      "overrideName": "86A741B6-4E1B-4535-9DF7-D72ED432F6CD_symbolID",
+      "value": "D90C5DC0-5815-46AB-B815-DD764F0B7F32"
+    }
+  ],
+  "overrides": {
+    "86A741B6-4E1B-4535-9DF7-D72ED432F6CD": {
+      "symbolID": "D90C5DC0-5815-46AB-B815-DD764F0B7F32"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8305BC6-1645-4F01-BD9B-BF127E3B545C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "484ABC8F-27E1-454E-9AB7-4293BB6D321E",
+  "verticalSpacing": 0
+}

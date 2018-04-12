@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "7A3296EE-F7AA-40AD-86C3-A8E0C15533C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 176,
+    "x": 537,
+    "y": 431.0000000000001
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "867C8BC7-46F3-49A2-9090-3A4A4587A773"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "08A4A79B-097B-45E5-B8DB-BED33535C9B7"
+    },
+    {
+      "class": "text",
+      "id": "813222D6-A027-45F1-BCC9-300E5AD9600E"
+    },
+    {
+      "class": "text",
+      "id": "40C65A27-7FA2-4F61-B2D6-40553EC6D0B9"
+    }
+  ],
+  "name": "Buttons / Commons / Cancel | Save / Normal 176x55",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

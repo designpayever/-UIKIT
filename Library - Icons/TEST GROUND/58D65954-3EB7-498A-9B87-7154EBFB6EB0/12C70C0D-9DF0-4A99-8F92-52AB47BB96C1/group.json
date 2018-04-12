@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "12C70C0D-9DF0-4A99-8F92-52AB47BB96C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 148,
+    "width": 147,
+    "x": 1154,
+    "y": 604
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3DF1FEB4-F62D-4C6C-B5B8-2088370C38D7"
+    },
+    {
+      "class": "text",
+      "id": "D7DF359E-47DA-49E4-A210-518C38166F5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97D2A96D-9F54-4D1B-9B2B-18C3716236A4"
+    }
+  ],
+  "name": "APP6 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D563CB5F-BA8C-4CBF-B1A7-2FEDC33099FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A1B27CB-D734-4AE6-A254-019BD0E8F454",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7075BE11-F455-4FFE-81BB-10FE68087766",
+    "height": 44,
+    "width": 1380,
+    "x": 4229,
+    "y": 1334
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dashboard / Header / Top Bar_#",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5B33230C-0803-4D70-B141-98E500DD548E_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "5B33230C-0803-4D70-B141-98E500DD548E": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "740F6874-C2AA-4AC0-8317-B135779C53BE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0BB8764B-BC31-47D2-B4D2-B85D253D530C",
+  "verticalSpacing": 0
+}

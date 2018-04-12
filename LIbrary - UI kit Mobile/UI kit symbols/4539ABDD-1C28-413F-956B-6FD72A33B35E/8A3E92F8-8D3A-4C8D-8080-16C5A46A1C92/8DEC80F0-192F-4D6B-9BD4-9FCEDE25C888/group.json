@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "8DEC80F0-192F-4D6B-9BD4-9FCEDE25C888",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 31.73553719008265,
+    "width": 31.73553719008265,
+    "x": 82.10521855630122,
+    "y": 83.92005100723145
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A975EECF-86B2-47C2-842D-930F8D799C2F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F39E081-9BF4-4F74-BF0D-D662824A8B04"
+    }
+  ],
+  "name": "Group 3 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

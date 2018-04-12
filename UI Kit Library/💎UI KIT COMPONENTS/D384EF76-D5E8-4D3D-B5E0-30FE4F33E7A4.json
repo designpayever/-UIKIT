@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D384EF76-D5E8-4D3D-B5E0-30FE4F33E7A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F43008DE-6508-4AD7-9866-F0C0F22D4C4B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7FB4DB8-B5CF-4E05-BCEB-D927607926EF",
+    "height": 110,
+    "width": 1381,
+    "x": 4228,
+    "y": 2441
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dashboard / Helllo World / Tag_",
+  "nameIsFixed": true,
+  "originalObjectID": "F934595B-DA0F-4B78-9A3A-1F293BC04644",
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7722C065-3AEF-41DC-806C-3E2E881CCA1B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "91518240-BF33-48F2-ABF2-781997761FA8",
+  "verticalSpacing": 0
+}

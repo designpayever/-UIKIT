@@ -1,0 +1,125 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "768C3AE0-B0E0-42DC-A7B1-AD4375C0A1CC",
+    "green": 0,
+    "red": 1
+  },
+  "changeIdentifier": 3600,
+  "do_objectID": "FF8CFC39-0AE8-4274-AFEC-FEADA850D38B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D189CD2-5B0F-48E5-B9EC-4A8F7F7DC708",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB85BD21-A13E-453C-9144-66FBC00DFC96",
+    "height": 48,
+    "width": 48,
+    "x": 5045,
+    "y": 1826
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 1,
+    "isEnabled": false,
+    "thickGridTimes": 1
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C2F99D35-2146-4D14-A060-330F024496DF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E9E7AD20-C297-4F12-8470-A094509C6602"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3541A3C8-73AA-4E22-86BD-DF19344D413C"
+    }
+  ],
+  "name": "MEDIA COMPONENTS / APP_BAR /button_icon",
+  "nameIsFixed": true,
+  "originalObjectID": "4BCEAE8E-207C-46D1-B2DF-6DEDF125576C",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "977FFD6D-F5D6-404E-BE9C-C18961CD38A8",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E69B01D7-AC32-4B91-AF82-8E3C36DE37C8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FF0BFDC2-CF72-4CE5-9ABB-6B4A289E25B5",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B1D21F82-4E30-4CAE-A52F-4248ACF225AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 375,
+    "x": -964,
+    "y": -1544
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "COMPONENTS / section_header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B38253E2-865E-46E0-9744-9F4F93D97369_symbolID",
+      "value": "33DA5424-BB5D-4990-92B7-40DC570D1F33"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F40CF9DC-A666-4E88-BFF2-751E7F2AAEFD_symbolID",
+      "value": "40F7E9B3-0DB5-4102-BBD4-D934ECD296CA"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "776027C6-E1B6-4E7A-BEC2-7866254C4BCE_symbolID",
+      "value": "33DA5424-BB5D-4990-92B7-40DC570D1F33"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FF114A4D-4FDC-407D-A212-B5917880ECE6_stringValue",
+      "value": "Accept Payments"
+    }
+  ],
+  "overrides": {
+    "776027C6-E1B6-4E7A-BEC2-7866254C4BCE": {
+      "symbolID": "33DA5424-BB5D-4990-92B7-40DC570D1F33"
+    },
+    "B38253E2-865E-46E0-9744-9F4F93D97369": {
+      "symbolID": "33DA5424-BB5D-4990-92B7-40DC570D1F33"
+    },
+    "F40CF9DC-A666-4E88-BFF2-751E7F2AAEFD": {
+      "symbolID": "40F7E9B3-0DB5-4102-BBD4-D934ECD296CA"
+    },
+    "FF114A4D-4FDC-407D-A212-B5917880ECE6": "Accept Payments"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3F8D5FF4-66C1-4EC5-8A4C-6BF81BA8F0F5",
+  "verticalSpacing": 0
+}

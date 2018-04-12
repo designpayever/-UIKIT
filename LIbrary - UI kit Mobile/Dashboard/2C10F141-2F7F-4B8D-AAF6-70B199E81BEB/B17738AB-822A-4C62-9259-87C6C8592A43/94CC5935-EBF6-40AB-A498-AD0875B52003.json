@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "94CC5935-EBF6-40AB-A498-AD0875B52003",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 72,
+    "x": 176,
+    "y": 106
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 30,
+  "masterInfluenceEdgeMaxYPadding": 32,
+  "masterInfluenceEdgeMinXPadding": 22,
+  "masterInfluenceEdgeMinYPadding": 20,
+  "name": "mobile_Icon_bg Copy 7",
+  "nameIsFixed": false,
+  "originalObjectID": "D6A07CB3-5781-486A-91DF-FD754114ADC3",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D19FC736-266A-4063-99A9-CC8087F50FA9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/23c542c8cf5e897455341d65f01de8aeb935c3de",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C100D3BB-D563-49AE-B5D8-C621E6E5F8AF_symbolID",
+      "value": "D40E2EF9-9419-4CAA-9025-78D548F715A9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "766F1F0D-560B-40DA-A63F-2FBE35729FDD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "61EE13D3-1E12-478A-B6F5-518819173DA8_stringValue",
+      "value": "Store"
+    }
+  ],
+  "overrides": {
+    "61EE13D3-1E12-478A-B6F5-518819173DA8": "Store",
+    "766F1F0D-560B-40DA-A63F-2FBE35729FDD": {
+      "symbolID": ""
+    },
+    "C100D3BB-D563-49AE-B5D8-C621E6E5F8AF": {
+      "symbolID": "D40E2EF9-9419-4CAA-9025-78D548F715A9"
+    },
+    "D19FC736-266A-4063-99A9-CC8087F50FA9": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/23c542c8cf5e897455341d65f01de8aeb935c3de",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "262AB538-F7DF-4D05-8984-21283C13E179",
+  "verticalSpacing": 0
+}

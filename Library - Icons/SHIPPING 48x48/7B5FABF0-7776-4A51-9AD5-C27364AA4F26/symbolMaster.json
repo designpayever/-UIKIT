@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E751A144-EF38-47FD-A808-A6AA49DF19C2",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 174,
+  "do_objectID": "7B5FABF0-7776-4A51-9AD5-C27364AA4F26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8469E0EF-DFE4-48C5-ACC6-21FCBD857A39",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D2E8F31-5950-419F-92AC-277473A5B39F",
+    "height": 48,
+    "width": 48,
+    "x": -89,
+    "y": 86
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "3C5EBA7B-F883-4CED-8C60-DC9F720ABBA5",
+    "gridSize": 1,
+    "isEnabled": false,
+    "thickGridTimes": 1
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5E3223CF-7E71-4999-8045-824EDB978628",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B4273307-16B3-4CD4-849F-A200F6176C07"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4970EF7B-DF2C-4C61-95B5-57E570713B28"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14940863-1097-4AA5-90CE-C99832A07ACF"
+    }
+  ],
+  "name": "Shipping / Custom Shipping 1",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1EF262E0-7B65-428B-B7E3-5BF831191ECE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "72DC18C1-9822-4AB6-B671-5F7817BB106F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "248D373C-846F-4963-BCBF-64B390316481",
+    "guides": [
+    ]
+  }
+}

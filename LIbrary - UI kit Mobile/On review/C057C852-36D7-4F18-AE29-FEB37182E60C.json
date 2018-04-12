@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C057C852-36D7-4F18-AE29-FEB37182E60C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 2942,
+    "y": 10410
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "COMPONENTS / option_action Copy 81",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2C6281DF-8CE0-4C22-B099-F163FD4E9893_stringValue",
+      "value": "A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "87C7B7EF-B586-4C54-B327-66C5ED0172C3_symbolID",
+      "value": "1F5E3073-93EB-4383-A02E-77DC47BEB10E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4EF9C9D5-10C6-45DE-8181-92406C969DDC_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C4B31DF-0D26-4E90-83B6-8524134E4D4C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BCD97A84-FEA3-4DD4-B4A7-03D2C225023D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "50804B75-4610-42B7-A3EE-1E7B4BE6F178_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "1C4B31DF-0D26-4E90-83B6-8524134E4D4C": {
+      "symbolID": ""
+    },
+    "2C6281DF-8CE0-4C22-B099-F163FD4E9893": "A",
+    "4EF9C9D5-10C6-45DE-8181-92406C969DDC": " ",
+    "50804B75-4610-42B7-A3EE-1E7B4BE6F178": {
+      "symbolID": ""
+    },
+    "87C7B7EF-B586-4C54-B327-66C5ED0172C3": {
+      "symbolID": "1F5E3073-93EB-4383-A02E-77DC47BEB10E"
+    },
+    "BCD97A84-FEA3-4DD4-B4A7-03D2C225023D": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "854BCDF6-76BB-4E42-9442-213173E799C1",
+  "verticalSpacing": 0
+}

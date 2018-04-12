@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "1A104705-A13C-4B5E-BD5A-38793C5B10CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "62F419B6-1B74-4CEF-8952-2A4F99975FBB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B82CA6D-1785-497A-8EA2-A183D0725D1A",
+    "height": 23,
+    "width": 18,
+    "x": 13,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ED0BAEEA-F7AB-47AC-8EB0-013AE1E9E466"
+    }
+  ],
+  "name": "paint roll.2.3.1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B34681F6-467F-4D50-BE19-ABC9165EBA01",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

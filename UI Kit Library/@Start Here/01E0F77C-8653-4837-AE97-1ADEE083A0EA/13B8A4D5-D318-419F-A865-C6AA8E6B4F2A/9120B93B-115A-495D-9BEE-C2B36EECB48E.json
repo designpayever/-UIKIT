@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9120B93B-115A-495D-9BEE-C2B36EECB48E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "474027B9-4984-4453-9D81-6F6D5B4B194D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE7E5955-8B13-4B4E-B5B7-2E75B11B8183",
+    "height": 55,
+    "width": 1332,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tabs / Grey_#",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "928025A3-2316-4DFC-80AD-7DC9ECD38B3B",
+      "overrideName": "480BF885-05AE-4D13-AF64-E718D608D087_stringValue",
+      "value": "Staff memebers"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38E8A60B-AF9D-4121-A6EA-0A67CB2F12F2",
+      "overrideName": "25212046-49AE-4346-BB11-9F190096FA45_stringValue",
+      "value": "Groups"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A452516E-097A-4371-BDD2-C069A1E2A273",
+      "overrideName": "9551D955-C129-4FC6-B7EA-C98C0AE19EF4_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "152A8CFA-4694-4672-82FA-8D541B48E805",
+      "overrideName": "3E39F0A8-2E03-4FBB-81B2-330D8787EE70_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5141EFC-3009-4311-92A5-9D04A2106A75",
+      "overrideName": "C5975F91-467A-487C-8BE9-76BA6C108E62_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8489A9E5-B665-46DA-B435-C9EB33611AC8",
+      "overrideName": "7C4E9EE2-5803-48B1-B587-AAC42616B38B_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "25212046-49AE-4346-BB11-9F190096FA45": "Groups",
+    "3E39F0A8-2E03-4FBB-81B2-330D8787EE70": " ",
+    "480BF885-05AE-4D13-AF64-E718D608D087": "Staff memebers",
+    "7C4E9EE2-5803-48B1-B587-AAC42616B38B": {
+      "symbolID": ""
+    },
+    "9551D955-C129-4FC6-B7EA-C98C0AE19EF4": " ",
+    "C5975F91-467A-487C-8BE9-76BA6C108E62": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1F2CD584-5DFC-449D-B36A-2718ED8CA589",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3D96876F-E560-4CBD-BA94-6A3083517E5A",
+  "verticalSpacing": 0
+}

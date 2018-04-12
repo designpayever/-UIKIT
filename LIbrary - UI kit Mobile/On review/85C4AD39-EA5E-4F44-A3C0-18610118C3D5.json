@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "85C4AD39-EA5E-4F44-A3C0-18610118C3D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 486,
+    "width": 375,
+    "x": 4894,
+    "y": 306
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "COMPONENTS / option_action Copy 44",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3E088DE-B3E7-44EF-BDA3-F3F6E444A2F5_stringValue",
+      "value": "It’s been around for over 30 years and because of the wording of the items it can and has been applied to just about any “system,” including consumer and business software, websites, mobile apps, and Interactive Voice Response systems. It’s wide usage also means there are plenty of SUS benchmarks to compare a SUS score to—making the raw score more meaningful.\n\nHowever, after observing enough website interactions and hearing the problems and concerns participants had, it became clear that the website user experience was more than just the narrow construct of usability addressed by the SUS."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "42B76CF6-1019-4737-8F71-F49D517DB908_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "42B76CF6-1019-4737-8F71-F49D517DB908": " ",
+    "D3E088DE-B3E7-44EF-BDA3-F3F6E444A2F5": "It’s been around for over 30 years and because of the wording of the items it can and has been applied to just about any “system,” including consumer and business software, websites, mobile apps, and Interactive Voice Response systems. It’s wide usage also means there are plenty of SUS benchmarks to compare a SUS score to—making the raw score more meaningful.\n\nHowever, after observing enough website interactions and hearing the problems and concerns participants had, it became clear that the website user experience was more than just the narrow construct of usability addressed by the SUS."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AA13C93C-D4FD-45B5-8BCA-209E4B914370",
+  "verticalSpacing": 0
+}

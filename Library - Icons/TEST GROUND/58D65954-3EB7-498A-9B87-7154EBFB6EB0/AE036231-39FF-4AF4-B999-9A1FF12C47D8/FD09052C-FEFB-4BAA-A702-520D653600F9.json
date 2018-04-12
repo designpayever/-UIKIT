@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FD09052C-FEFB-4BAA-A702-520D653600F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 96,
+    "x": 0,
+    "y": 59
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mobile_icon_text_white",
+  "nameIsFixed": false,
+  "originalObjectID": "B9B97049-9AF9-4E7E-9F82-6B00ACF27F2F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D9A34BA-A97D-4BB5-8762-926259EB0EAF_stringValue",
+      "value": "Youtube"
+    }
+  ],
+  "overrides": {
+    "0D9A34BA-A97D-4BB5-8762-926259EB0EAF": "Youtube"
+  },
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5392040307971014,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "3CA3E254-ADFC-4867-A198-99A6975312E4",
+  "verticalSpacing": 0
+}

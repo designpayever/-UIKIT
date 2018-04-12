@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "AB9A2B45-90BC-42A3-8A05-398F00C6EC28",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1380,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "65FD210A-2FAF-4115-960F-CFEF88F4E0AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBBE9B94-A1FB-415F-B5A5-5E4559E28854"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99293A9B-8FC7-4C6E-9456-9E382C0CE32F"
+    }
+  ],
+  "name": "Dashboard / background_#",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

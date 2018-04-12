@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "648BE606-0400-43CD-85C2-8BE5E9D8DBD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96.00000000000001,
+    "width": 375,
+    "x": -1475,
+    "y": -425
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 10,
+  "masterInfluenceEdgeMaxYPadding": 17,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
+  "name": "List_big",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B8261BD4-BC05-4D45-8E5F-F0DED8CEACBA/F5134298-4F2C-4CCC-B21B-AAF43EE65460_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6a6990c94516e5453dbcfa9e6186943ea322b7fa",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B8261BD4-BC05-4D45-8E5F-F0DED8CEACBA/E664F4AE-7332-4FB5-9987-A8A2C9F983AD_stringValue",
+      "value": "PayEx"
+    }
+  ],
+  "overrides": {
+    "B8261BD4-BC05-4D45-8E5F-F0DED8CEACBA": {
+      "E664F4AE-7332-4FB5-9987-A8A2C9F983AD": "PayEx",
+      "F5134298-4F2C-4CCC-B21B-AAF43EE65460": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6a6990c94516e5453dbcfa9e6186943ea322b7fa",
+        "_ref_class": "MSImageData"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B91D3791-351D-45C6-A6F6-E9FE8A0EA065",
+  "verticalSpacing": 0
+}

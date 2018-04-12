@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "441CBE1A-E046-4D06-89A0-0D4FB916A7AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 59,
+    "x": 5,
+    "y": 7
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E8C01914-5729-437D-B464-9C837E940BC0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E149142-6291-4295-AA35-EC10087D329D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B52558A7-A8E1-48EA-951F-9FA33E30066D"
+    }
+  ],
+  "name": "Mail",
+  "nameIsFixed": true,
+  "originalObjectID": "3B50A268-0741-4807-A308-271A608F232E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

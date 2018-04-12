@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "0D8C65D4-DF06-478F-9427-246BB5DCFDBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24.01814214863043,
+    "width": 24.05200340354935,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "62871B6E-C607-4221-9DE3-23BDA36A02F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56CA7E90-B066-4CF8-B9B2-33D76D777BB4"
+    }
+  ],
+  "name": "AVATARS/ COLORS / Blue",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

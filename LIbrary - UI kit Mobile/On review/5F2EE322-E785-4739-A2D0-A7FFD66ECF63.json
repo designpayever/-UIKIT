@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5F2EE322-E785-4739-A2D0-A7FFD66ECF63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 4426,
+    "y": 801
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "COMPONENTS / option_action Copy 35",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0E2E13E8-20FD-4658-91FF-1D568D824E25_stringValue",
+      "value": "Select all"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4EF9C9D5-10C6-45DE-8181-92406C969DDC_stringValue",
+      "value": "Invite"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A2194EE-1C87-42DE-8A72-8FA053DEBCBD_symbolID",
+      "value": "9BC5BFB7-9D14-4E43-8102-FEF7B5316DFC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "15A1E422-7745-46C0-9DD4-DEC8EEED8E47_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2C6281DF-8CE0-4C22-B099-F163FD4E9893_stringValue",
+      "value": "Name"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "87C7B7EF-B586-4C54-B327-66C5ED0172C3_symbolID",
+      "value": "97092569-1E59-45C8-82FA-70BD1C47270C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "98AD33A5-4DA8-482D-89D2-7E7B8BD705E4_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "0E2E13E8-20FD-4658-91FF-1D568D824E25": "Select all",
+    "15A1E422-7745-46C0-9DD4-DEC8EEED8E47": {
+      "symbolID": ""
+    },
+    "2C6281DF-8CE0-4C22-B099-F163FD4E9893": "Name",
+    "4EF9C9D5-10C6-45DE-8181-92406C969DDC": "Invite",
+    "5A2194EE-1C87-42DE-8A72-8FA053DEBCBD": {
+      "symbolID": "9BC5BFB7-9D14-4E43-8102-FEF7B5316DFC"
+    },
+    "87C7B7EF-B586-4C54-B327-66C5ED0172C3": {
+      "symbolID": "97092569-1E59-45C8-82FA-70BD1C47270C"
+    },
+    "98AD33A5-4DA8-482D-89D2-7E7B8BD705E4": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4A2FC0A7-9CA5-4EE1-84AA-3A0C2DE28981",
+  "verticalSpacing": 0
+}

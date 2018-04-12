@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "300921A3-9FDD-4906-8829-BF10DA29297C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 355,
+    "x": 890,
+    "y": -1937
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Views / Action / component_64x355",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B84BEE9A-FF87-438E-9AFF-B039018527E8_symbolID",
+      "value": "6511693C-5FD8-47B3-8106-A6393F4AF847"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F0C1E51A-BBBE-41FF-B467-10C87F400143/353DAA15-E4FE-4358-9380-DE9ED3E4347D_stringValue",
+      "value": "Edit"
+    }
+  ],
+  "overrides": {
+    "B84BEE9A-FF87-438E-9AFF-B039018527E8": {
+      "symbolID": "6511693C-5FD8-47B3-8106-A6393F4AF847"
+    },
+    "F0C1E51A-BBBE-41FF-B467-10C87F400143": {
+      "353DAA15-E4FE-4358-9380-DE9ED3E4347D": "Edit"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0E21179E-6311-4A02-B4CE-C326765C414F",
+  "verticalSpacing": 0
+}
